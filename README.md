@@ -17,7 +17,7 @@
 ## 📂 주요 프로젝트
 ### 🔑 핵심 레포지토리
 - 🧑‍💻 [**알고리즘 문제 풀이**](https://github.com/Mminzy22/coding-test-practice): 다양한 알고리즘 문제 풀이 기록.
-- 🏗️ [**부트캠프 과제**](https://github.com/Mminzy22/coding-test-practice): 코딩 부트캠프에서 진행한 과제들.
+- 🏗️ [**부트캠프 과제**](https://github.com/Mminzy22/learning-python): 코딩 부트캠프에서 진행한 과제들.
 - 📊 [**포트폴리오**](https://github.com/Mminzy22/moviemoa): JAVA언어. 스프링부트를 이용한 영화 리뷰 페이지 웹 개발.
 
 ---
