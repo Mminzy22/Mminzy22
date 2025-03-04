@@ -19,7 +19,7 @@
 - 🏆 [**IN4U**](https://github.com/Mminzy22/IN4U-Platform)  
   → 청년 맞춤형 취·창업 지원 AI 챗봇 (**Django, DRF, PostgreSQL, Redis, WebSocket**)  
 - 🤖 [**Chatbot_pjt**](https://github.com/Mminzy22/Chatbot_pjt)  
-  → 개발자 모의 기술 면접 AI 챗봇 (**LangChain, RAG, Pinecorn**)  
+  → 개발자 모의 기술 면접 AI 챗봇 (**LangChain, RAG, Pinecone**)  
 - 🧑‍💻 [**알고리즘 문제 풀이**](https://github.com/Mminzy22/coding-test-practice)  
   → 다양한 알고리즘 문제 풀이 기록  
 - 🏗️ [**부트캠프 과제**](https://github.com/Mminzy22/learning-python)
