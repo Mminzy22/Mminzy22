@@ -25,7 +25,7 @@
 - 🏗️ [**부트캠프 과제**](https://github.com/Mminzy22/learning-python)
 - 🏗️ [**부트캠프 LLM-RAG 과제**](https://github.com/Mminzy22/LLM-RAG-Practice)  
   → AI 웹 서비스 개발 과정에서 진행한 실습 과제  
-- 📊 [**moviemoa**](https://github.com/Mminzy22/moviemoa)  
+- 📽️ [**moviemoa**](https://github.com/Mminzy22/moviemoa)  
   → Spring Boot 기반 영화 리뷰 커뮤니티 웹 개발
 
 ---
