@@ -22,7 +22,8 @@
   → 개발자 모의 기술 면접 AI 챗봇 (**LangChain, RAG, ChromaDB**)  
 - 🧑‍💻 [**알고리즘 문제 풀이**](https://github.com/Mminzy22/coding-test-practice)  
   → 다양한 알고리즘 문제 풀이 기록  
-- 🏗️ [**부트캠프 과제**](https://github.com/Mminzy22/learning-python)  ,[**부트캠프 LLM-RAG 과제**](https://github.com/Mminzy22/LLM-RAG-Practice)
+- 🏗️ [**부트캠프 과제**](https://github.com/Mminzy22/learning-python)
+- 🏗️ [**부트캠프 LLM-RAG 과제**](https://github.com/Mminzy22/LLM-RAG-Practice)  
   → AI 웹 서비스 개발 과정에서 진행한 실습 과제  
 - 📊 [**moviemoa**](https://github.com/Mminzy22/moviemoa)  
   → Spring Boot 기반 영화 리뷰 커뮤니티 웹 개발
