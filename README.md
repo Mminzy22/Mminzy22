@@ -4,7 +4,7 @@
 
 ## 🛠️ 현재 작업 중인 내용  
 - 🔭 **진행 중인 프로젝트**:  
-  - **IN4U**: 청년 맞춤형 취·창업 지원 AI 챗봇 개발
+  - **IN4U**: 맞춤형 취·창업 지원 AI 챗봇 개발
   - 프로그래머스 코딩 테스트 문제 풀이  
 
 - 🌱 **현재 배우는 기술**:  
@@ -18,7 +18,7 @@
 ### 🔑 핵심 레포지토리  
 - 🏆 [**IN4U-Backend**](https://github.com/Mminzy22/IN4U-Backend)
 - 🏆 [**IN4U-Frontend**](https://github.com/Mminzy22/IN4U-Frontend)  
-  → 청년 맞춤형 취·창업 지원 AI 챗봇 (**Django, DRF, PostgresQL, Redis, WebSocket**)  
+  → 맞춤형 취·창업 지원 AI 챗봇 (**Django, DRF, PostgresQL, Redis, WebSocket**)  
 - 🤖 [**Chatbot_pjt**](https://github.com/Mminzy22/Chatbot_pjt)  
   → 개발자 모의 기술 면접 AI 챗봇 (**LangChain, RAG, Pinecone**)  
 - 🧑‍💻 [**알고리즘 문제 풀이**](https://github.com/Mminzy22/coding-test-practice)  
