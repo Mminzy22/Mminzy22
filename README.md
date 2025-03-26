@@ -31,13 +31,6 @@
 
 ---
 
-## 📊 GitHub
-<a href="https://github.com/Mminzy22/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mminzy22&&theme=transparent&hide=jupyter%20notebook,css,html,plpgsql,plsql,nsis,Batchfile,Shell&langs_count=8&card_width=150&border_radius=15&&layout=donut" />
-</a>   
-
----
-
 ## 🌟 블로그 URL  
 
 - **URL**: [https://Mminzy22.github.io](https://Mminzy22.github.io)  
