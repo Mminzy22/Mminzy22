@@ -4,7 +4,7 @@
 
 ## 🛠️ 현재 작업 중인 내용  
 - 🔭 **진행 중인 프로젝트**:  
-  - **AInfo**: 맞춤형 취·창업 지원 AI 챗봇 개발
+  - **AInfo**: 개인 맞춤형 공공서비스 추천 AI 챗봇 개발
   - 프로그래머스 코딩 테스트 문제 풀이  
 
 - 🌱 **현재 배우는 기술**:  
@@ -18,7 +18,7 @@
 ### 🔑 핵심 레포지토리  
 - 🏆 [**AInfo-Backend**](https://github.com/Mminzy22/AInfo-Backend)
 - 🏆 [**AInfo-Frontend**](https://github.com/Mminzy22/AInfo-Frontend)  
-  → 맞춤형 취·창업 지원 AI 챗봇 (**Django, DRF, PostgresQL, Redis, WebSocket**)  
+  → 개인 맞춤형 공공서비스 추천 AI 챗봇 (**Django, DRF, PostgresQL, Redis, WebSocket**)  
 - 🤖 [**Chatbot_pjt**](https://github.com/Mminzy22/Chatbot_pjt)  
   → 개발자 모의 기술 면접 AI 챗봇 (**LangChain, RAG, Pinecone**)  
 - 🧑‍💻 [**알고리즘 문제 풀이**](https://github.com/Mminzy22/coding-test-practice)  
@@ -38,9 +38,9 @@
 ---
 
 ## 🏆 성과  
-- 🌟 **100개 이상의 알고리즘 문제 풀이** (프로그래머스, 백준, LeetCode, Codeforces 등)  
+- 🌟 **100개 이상의 알고리즘 문제 풀이**
 - 🏅 **6개월 Spring 기반 웹서비스(AWS) 개발 과정 수료**  
-- 🏅 **4개월 AI 웹 서비스 개발 부트캠프 수료 예정**  
+- 🏅 **4개월 AI 웹 서비스 개발 부트캠프 수료**  
 - 📈 **다양한 프로젝트 제작 및 배포 경험**  
 
 ---
