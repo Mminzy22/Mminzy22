@@ -8,7 +8,7 @@
   - 코딩 테스트 문제 풀이  
 
 - 🌱 **현재 배우는 기술**:  
-  - **Python, Django, DRF, PostgresQL**을 활용한 웹 서비스 개발  
+  - **Python, Django, DRF, PostgreSQL**을 활용한 웹 서비스 개발  
   - **Docker, AWS 배포, CI/CD(GitHub Actions)**  
   - **LangChain, RAG, ChromaDB** 기반 AI 챗봇 개발  
 
@@ -18,7 +18,7 @@
 ### 🔑 핵심 레포지토리  
 - 🏆 [**AInfo-Backend**](https://github.com/Mminzy22/AInfo-Backend)
 - 🏆 [**AInfo-Frontend**](https://github.com/Mminzy22/AInfo-Frontend)  
-  → 개인 맞춤형 공공서비스 추천 AI 챗봇 (**Django, DRF, PostgresQL, Redis, WebSocket**)  
+  → 개인 맞춤형 공공서비스 추천 AI 챗봇 (**Django, DRF, PostgreSQL, Redis, WebSocket**)  
 - 🤖 [**Chatbot_pjt**](https://github.com/Mminzy22/Chatbot_pjt)  
   → 개발자 모의 기술 면접 AI 챗봇 (**LangChain, RAG, Pinecone**)  
 - 🧑‍💻 [**알고리즘 문제 풀이**](https://github.com/Mminzy22/coding-test-practice)  
