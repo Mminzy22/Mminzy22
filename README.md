@@ -46,4 +46,4 @@
 ---
 
 ## 🌍 Let's Connect  
-- 📫 **이메일**: aw7022@gmail.com  
+- 📫 **이메일**: minji.dev22@gmail.com  
