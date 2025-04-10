@@ -34,9 +34,10 @@
 
 ---
 
-## 🌟 블로그 URL  
+## 🌟 블로그 & 포트폴리오 URL  
 
-- **URL**: [https://Mminzy22.github.io](https://Mminzy22.github.io)  
+- **블로그 URL**: [https://Mminzy22.github.io](https://Mminzy22.github.io)
+- **포트폴리오 URL**: [https://portfolio-site-eight-zeta.vercel.app](https://portfolio-site-eight-zeta.vercel.app/)
 
 ---
 
