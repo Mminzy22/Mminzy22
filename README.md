@@ -9,7 +9,7 @@
   - 코딩 테스트 문제 풀이
 
 - 🌱 **현재 배우는 기술**:
-  - **LangChain, RAG, ChromaDB** 기반 AI 챗봇 개발   
+  - **LangChain, CrewAI, RAG, ChromaDB** 기반 AI 챗봇 개발   
   - **Python, Django, DRF, PostgreSQL**을 활용한 웹 서비스 개발  
   - **Docker, AWS 배포, CI/CD(GitHub Actions)**  
 
