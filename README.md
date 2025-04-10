@@ -5,12 +5,13 @@
 ## 🛠️ 현재 작업 중인 내용  
 - 🔭 **진행 중인 프로젝트**:  
   - **AInfo**: 개인 맞춤형 공공서비스 추천 AI 챗봇 개발
-  - 코딩 테스트 문제 풀이  
+  - **DevPilot**: 개발 역량 강화를 위한 맞춤형 AI 챗봇 개발
+  - 코딩 테스트 문제 풀이
 
-- 🌱 **현재 배우는 기술**:  
+- 🌱 **현재 배우는 기술**:
+  - **LangChain, RAG, ChromaDB** 기반 AI 챗봇 개발   
   - **Python, Django, DRF, PostgreSQL**을 활용한 웹 서비스 개발  
   - **Docker, AWS 배포, CI/CD(GitHub Actions)**  
-  - **LangChain, RAG, ChromaDB** 기반 AI 챗봇 개발  
 
 ---
 
