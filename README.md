@@ -20,7 +20,7 @@
 - 🏆 [**AInfo-Backend**](https://github.com/Mminzy22/AInfo-Backend)
 - 🏆 [**AInfo-Frontend**](https://github.com/Mminzy22/AInfo-Frontend)  
   → 개인 맞춤형 공공서비스 추천 AI 챗봇 (**Django, DRF, PostgreSQL, Redis, WebSocket**)  
-- 🤖 [**Chatbot_pjt**](https://github.com/Mminzy22/Chatbot_pjt)  
+- 🤖 [**DevPilot**](https://github.com/Mminzy22/DevPilot) 
   → 개발자 모의 기술 면접 AI 챗봇 (**LangChain, RAG, Pinecone**)  
 - 🧑‍💻 [**알고리즘 문제 풀이**](https://github.com/Mminzy22/coding-test-practice)  
   → 다양한 알고리즘 문제 풀이 기록  
