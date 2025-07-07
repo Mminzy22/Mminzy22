@@ -9,9 +9,9 @@
   - 코딩 테스트 문제 풀이
 
 - 🌱 **현재 배우는 기술**:
+  - **AWS·Azure 배포,Teraform, Jenkins, GitHub Actions 등 도구 기반 CI/CD, Docker, Kubernetes**  
   - **LangChain, CrewAI, RAG, ChromaDB** 기반 AI 챗봇 개발   
   - **Python, Django, DRF, PostgreSQL**을 활용한 웹 서비스 개발  
-  - **Docker, AWS 배포, CI/CD(GitHub Actions)**  
 
 ---
 
@@ -43,6 +43,7 @@
 
 ## 🏆 성과  
 - 🌟 **100개 이상의 알고리즘 문제 풀이**
+- 🏅 **클라우드 운영자 교육 과정 수료 예정**
 - 🏅 **6개월 Spring 기반 웹서비스(AWS) 개발 과정 수료**  
 - 🏅 **4개월 AI 웹 서비스 개발 부트캠프 수료**  
 - 📈 **다양한 프로젝트 제작 및 배포 경험**  
