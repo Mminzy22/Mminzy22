@@ -18,6 +18,8 @@
 
 ## 📂 주요 프로젝트  
 ### 🔑 핵심 레포지토리  
+- 🏗️ [**클라우드 운영 과제**](https://github.com/Mminzy22/cloud-ops-practice)  
+  → 클라우드 운영자 과정에서 진행한 실습 과제
 - 🏆 [**AInfo-Backend**](https://github.com/Mminzy22/AInfo-Backend)  
   → 개인 맞춤형 공공서비스 추천 AI 챗봇 (**Django, DRF, PostgreSQL, Redis, WebSocket**)
 - 🏆 [**AInfo-Frontend**](https://github.com/Mminzy22/AInfo-Frontend)  
@@ -45,8 +47,8 @@
 ## 🏆 성과  
 - 🌟 **100개 이상의 알고리즘 문제 풀이**
 - 🏅 **7주 클라우드 운영자 교육 과정 수료 예정**
-- 🏅 **6개월 Spring 기반 웹서비스(AWS) 개발 과정 수료**  
 - 🏅 **4개월 AI 웹 서비스 개발 부트캠프 수료**  
+- 🏅 **6개월 Spring 기반 웹서비스(AWS) 개발 과정 수료**  
 - 📈 **다양한 프로젝트 제작 및 배포 경험**  
 
 ---
