@@ -4,7 +4,7 @@
 
 ## 🛠️ 현재 작업 중인 내용  
 - 🔭 **진행 중인 프로젝트**:  
-  - **Cloud-ops-practice**: 클라우드 운영자 과정 실습
+  - [**Cloud-ops-practice**](https://github.com/Mminzy22/cloud-ops-practice): 클라우드 운영자 과정 실습
   - 코딩 테스트 문제 풀이
 
 - 🌱 **현재 배우는 기술**:
