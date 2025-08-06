@@ -57,6 +57,13 @@
 ---
 
 <div style="display: flex;">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mminzy22&utm_content=farm" style="flex: 1;">
+    <img
+      src="https://render.gitanimals.org/farms/Mminzy22"
+      style="width: 49%; height: auto;"
+      alt="farm"
+    />
+  </a>
 
   <a href="https://www.gitanimals.org/" style="flex: 1;">
     <img
