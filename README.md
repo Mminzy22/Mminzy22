@@ -67,7 +67,7 @@
 
   <a href="https://www.gitanimals.org/" style="flex: 1;">
     <img
-      src="https://render.gitanimals.org/guilds/740958664789626902/draw"
+      src="https://render.gitanimals.org/guilds/740958664789626902/draw?cache_bust=1"
       style="width: 49%; height: auto;"
       alt="gitanimals"
     />
