@@ -4,9 +4,6 @@
 
 ## 🛠️ 현재 작업 중인 내용  
 - 🔭 **진행 중인 프로젝트**:  
-  - [**Cloud-ops-practice**](https://github.com/Mminzy22/cloud-ops-practice): 클라우드 운영자 과정 실습
-  - [**Kickytime-Backend**](https://github.com/next-engineer/next-kickytime-server): 풋살 매칭 서비스 백엔드 (Spring Boot, AWS 배포)
-  - [**Kickytime-Frontend**](https://github.com/next-engineer/next-kickytime-front): 풋살 매칭 서비스 프론트엔드 (React, AWS 배포)
   - 코딩 테스트 문제 풀이
 
 - 🌱 **현재 배우는 기술**:
