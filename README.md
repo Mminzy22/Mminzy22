@@ -26,14 +26,10 @@
 ### 🔑 핵심 레포지토리  
 - ⚽ [**Kickytime-Backend**](https://github.com/next-engineer/next-kickytime-server)  
   → 풋살 매칭 서비스 백엔드 (Spring Boot, AWS 배포)
-- ⚽ [**Kickytime-Frontend**](https://github.com/next-engineer/next-kickytime-front)  
-  → 풋살 매칭 서비스 프론트엔드 (React, AWS 배포)
 - 🏗️ [**클라우드 운영 과제**](https://github.com/Mminzy22/cloud-ops-practice)  
   → 클라우드 운영자 과정에서 진행한 실습 과제
 - 🏆 [**AInfo-Backend**](https://github.com/Mminzy22/AInfo-Backend)  
   → 개인 맞춤형 공공서비스 추천 AI 챗봇 (**Django, DRF, PostgreSQL, Redis, WebSocket**)
-- 🏆 [**AInfo-Frontend**](https://github.com/Mminzy22/AInfo-Frontend)  
-  → 개인 맞춤형 공공서비스 추천 AI 챗봇 (**HTML, CSS, JS**)
 - 🤖 [**DevPilot-Backend**](https://github.com/Mminzy22/DevPilot-Backend)  
   → 개발자 모의 기술 면접 AI 챗봇 (**LangChain, RAG, Pinecone**)
 - 🧑‍💻 [**알고리즘 문제 풀이**](https://github.com/Mminzy22/coding-test-practice)  
