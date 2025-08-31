@@ -8,6 +8,8 @@
   </a>
 </div>
 
+---
+
 ## 🛠️ 현재 작업 중인 내용  
 - 🔭 **진행 중인 프로젝트**:  
   - [코딩 테스트 문제 풀이](https://github.com/Mminzy22/coding-test-practice) : 다양한 알고리즘 문제 풀이 기록
