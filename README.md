@@ -1,6 +1,12 @@
-# 👋 MINJI 👨‍💻
-
----
+<div align="center">
+  <a href="https://github.com/Mminzy22">
+    <img
+      src="https://capsule-render.vercel.app/api?type=waving&color=0:8fe9ff,100:3898ff&height=160&text=Minji%E2%80%99s%20GitHub%20%E2%80%94%20Backend%20%C2%B7%20DevOps%2FInfra%20%C2%B7%20AI&animation=fadeIn&fontColor=ffffff&fontSize=30&fontAlignY=32&v=2"
+      alt="Minji’s GitHub — Backend · DevOps/Infra · AI"
+      width="100%"
+    />
+  </a>
+</div>
 
 ## 🛠️ 현재 작업 중인 내용  
 - 🔭 **진행 중인 프로젝트**:  
