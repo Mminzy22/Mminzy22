@@ -12,7 +12,7 @@
 
 ## 🛠️ 현재 작업 중인 내용  
 - 🔭 **진행 중인 프로젝트**:  
-  - [cloud-ops-practice](https://github.com/Mminzy22/coding-test-practice) : 다양한 알고리즘 문제 풀이 기록
+  - [coding-test-practice](https://github.com/Mminzy22/coding-test-practice) : 다양한 알고리즘 문제 풀이 기록
 
 - 🌱 **현재 배우는 기술**:
   - **AWS 배포, Teraform, Jenkins, GitHub Actions 등 도구 기반 CI/CD, Docker, Kubernetes**  
