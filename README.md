@@ -12,11 +12,12 @@
 
 ## 🛠️ 현재 작업 중인 내용  
 - 🔭 **진행 중인 프로젝트**:  
-  - [코딩 테스트 문제 풀이](https://github.com/Mminzy22/coding-test-practice) : 다양한 알고리즘 문제 풀이 기록
+  - [cloud-ops-practice](https://github.com/Mminzy22/coding-test-practice) : 다양한 알고리즘 문제 풀이 기록
 
 - 🌱 **현재 배우는 기술**:
-  - **AWS·Azure 배포,Teraform, Jenkins, GitHub Actions 등 도구 기반 CI/CD, Docker, Kubernetes**  
-  - **LangChain, CrewAI, RAG, ChromaDB** 기반 AI 챗봇 개발   
+  - **AWS 배포, Teraform, Jenkins, GitHub Actions 등 도구 기반 CI/CD, Docker, Kubernetes**  
+  - **LangChain, CrewAI, RAG, ChromaDB** 기반 AI 챗봇 개발
+  - **Java, Spring Boot, PostgreSQL**을 활용한 웹 서비스 개발  
   - **Python, Django, DRF, PostgreSQL**을 활용한 웹 서비스 개발  
 
 ---
@@ -55,7 +56,7 @@
 
 ## 🏆 성과  
 - 🌟 **100개 이상의 알고리즘 문제 풀이**
-- 🏅 **7주 클라우드 운영자 교육 과정 수료 예정**
+- 🏅 **7주 클라우드 운영자 교육 과정 수료**
 - 🏅 **4개월 AI 웹 서비스 개발 부트캠프 수료**  
 - 🏅 **6개월 Spring 기반 웹서비스(AWS) 개발 과정 수료**  
 - 📈 **다양한 프로젝트 제작 및 배포 경험**  
