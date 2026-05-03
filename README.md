@@ -13,12 +13,11 @@
 ## 🛠️ 현재 작업 중인 내용  
 - 🔭 **진행 중인 프로젝트**:  
   - [**PayStream**](https://github.com/Mminzy22/PayStream) : Kafka와 Spring Cloud로 구현한 이벤트 주도형 결제 시스템
-  - [**Fliqo**](https://github.com/post-agent/fliqo-service-api) : AI기반 소상공인 매장 관리 플랫폼
   - [**coding-test-practice**](https://github.com/Mminzy22/coding-test-practice) : 다양한 알고리즘 문제 풀이 기록
 
 - 🌱 **현재 배우는 기술**:
   - **AWS 배포, Teraform, Jenkins, GitHub Actions 등 도구 기반 CI/CD, Docker, Kubernetes**  
-  - **LangChain, CrewAI, RAG, ChromaDB** 기반 AI 챗봇 개발
+  - **LangChain, Langraph, CrewAI, RAG, ChromaDB, PGVector** 기반 AI 챗봇 개발
   - **Java, Spring Boot, PostgreSQL**을 활용한 웹 서비스 개발  
   - **Python, Django, DRF, PostgreSQL**을 활용한 웹 서비스 개발  
 
